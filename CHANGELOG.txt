@@ -1,0 +1,18 @@
+Anderson Urgent Computer Care – QB Diagnostic Toolkit
+CHANGELOG
+────────────────────────────────────────────
+
+Version 1.0 – July 18, 2025
+• Initial release of QB_DiagnosticToolkit.ps1
+• Core modules: service check, port scan, antivirus audit, system health
+• Launchable via Run_Toolkit.bat
+• Generates desktop logs and HTML report
+• README.md added for usage reference
+
+Coming Soon:
+• Remote scan mode for offsite machines
+• Integrated log collector for support tickets
+• Branded zip package for client handoff
+
+────────────────────────────────────────────
+Developed by Mike Aset | Powered by PowerShell + GitHub
